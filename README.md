@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sethu55
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web3, Web development & AI
 - 🌱 I’m currently learning python & CSS
 - 👍 I have learnt HTML to a good extent
 - 💞️ I’m looking to collaborate on any basic python & HTML based projects
